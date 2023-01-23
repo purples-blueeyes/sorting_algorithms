@@ -28,13 +28,9 @@ int _strcmp(const char *s1, const char *s2)
 }
 
 /**
- *
  * get_value - Get the numerical value of a card.
- *
  * @card: A pointer to a deck_node_t card.
- *
  * Return: The numerical value of the card.
- *
  */
 
 char get_value(deck_node_t *card)
